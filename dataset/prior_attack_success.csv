@@ -1,4 +1,4 @@
-Threat Actor,Attack Vector,Success Rate
+Threat_Actor,Attack_Vector,Success_Rate
 Insider,Phishing,0.35
 External Hacker,SQL Injection,0.6
 External Hacker,Remote Code Execution,0.65

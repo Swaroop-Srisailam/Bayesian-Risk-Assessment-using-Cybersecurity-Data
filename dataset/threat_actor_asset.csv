@@ -1,4 +1,4 @@
-Threat Actor,Asset,Target Probability
+Threat_Actor,Asset,Target_Probability
 Insider,Server-01,0.4
 External Hacker,WebApp-01,0.7
 Insider,Database-01,0.3
